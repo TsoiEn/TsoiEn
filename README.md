@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things like Software Engineering, Data Analyst/Science, Database, and Machine Learning.
 - 🌱 I’m currently studying A Common-Sense to Data Struceture and Algorithms 2nd Edition by Jay Wengrow.
 - 💞️ I’m looking to collaborate on people with the same interest as myself. 
-- 📫 How to reach me @ paulanrenz23@gmail.com
+- 📫 You can reach me in paulanrenz23@gmail.com and https://www.linkedin.com/in/renz-aaron-paulan-b1b141302/
 
 
 <!---
