@@ -5,10 +5,12 @@ I'm a Computer Science student with a strong passion for technology and problem-
 ---
 ### Languages learned 
 
+<img align = "left" alt = "Jupyter" width = "40px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align = "left" alt = "Python" width = "40px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align = "left" alt = "Golang" width = "40px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-<img align = "left" alt = "Golang" width = "40px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
-#
+
+
 
 ### 📖 queued to be studied
 
@@ -16,6 +18,10 @@ I'm a Computer Science student with a strong passion for technology and problem-
 <img align = "left" alt = "c++" width = "40px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align = "left" alt = "Zig" width = "40px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" />         
 
----
 
-![TsoiEn](https://github-readme-stats.vercel.app/api/top-langs/?username=TsoiEn&layout=donut)(https://github.com/anuraghazra/github-readme-stats)
+
+
+
+#
+
+![TsoiEn](https://github-readme-stats.vercel.app/api/top-langs/?username=TsoiEn&layout=donut)
