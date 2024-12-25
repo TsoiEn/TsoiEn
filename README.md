@@ -3,7 +3,7 @@
 I'm a Computer Science student with a strong passion for technology and problem-solving. My goals include building projects that solve real-world problems, contributing to open source, and continuously growing as a developer. 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TsoiEn&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TsoiEn&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=TsoiEn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
