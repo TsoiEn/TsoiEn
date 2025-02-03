@@ -64,6 +64,9 @@
 🔹 Web-based To-Do List (Go, PostgreSQL, TypeScript)  
 🔹 TUI Password Manager with Docker & PostgreSQL  
 
+Future Porject
+🔹 App scheduler 
+
 
 📫 **Reach me at:**  
 🌐 [GitHub](https://github.com/TsoiEn)  
