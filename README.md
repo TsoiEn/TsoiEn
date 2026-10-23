@@ -1,5 +1,7 @@
 <div align="center">
-
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJwZG4wbWxpNGJyZmg3Z3FqbDQyeDMzYThhZWVmZXRvcGpiYThlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+</div>
 <!-- Replace with your current banner GIF link -->
 <img src="YOUR_BANNER_GIF_URL" width="320" alt="Coding pixel art" />
 
